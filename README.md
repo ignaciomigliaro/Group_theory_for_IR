@@ -1,4 +1,5 @@
 # Group Theory For Infrared Spectroscopy
+<a href="https://colab.research.google.com/github/ignaciomigliaro/Group_theory_for_IR/blob/main/Interactive_Colab_Notebook_for_predicting_IR_and_Raman_Bands.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Welcome to this notebook, where we'll be exploring the fascinating world of infrared (IR) and Raman spectroscopy! These analytical techniques allow us to probe the vibrations of molecules, giving us valuable information about their structure and properties. In this notebook, we'll be using the powerful framework of group theory to predict the IR and Raman bands of molecules. Group theory provides a systematic way of analyzing the symmetries and vibrations of molecules, helping us to understand the different types of vibrational modes and their corresponding spectral features. So, get ready to delve into the exciting world of molecular vibrations and spectroscopy, and let's use group theory to unlock the secrets of IR and Raman spectra!
 A notebook to facilitate the teaching of the use of Group theory and symmetry to predict IR bands. 
